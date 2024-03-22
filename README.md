@@ -1,0 +1,4 @@
+Student:
+- Entity
+- Repository
+- Controller
